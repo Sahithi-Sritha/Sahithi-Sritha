@@ -12,6 +12,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sahithi-Sritha&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahithi-Sritha&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 Codechef Badges
+  <html>
+<body>
+      <img src="https://cdn.codechef.com/images/badges/contest/diamond.svg"/>
+    </body>
+</html>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sahithi-Sritha&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
